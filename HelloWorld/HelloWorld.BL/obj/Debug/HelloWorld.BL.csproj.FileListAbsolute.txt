@@ -1,0 +1,9 @@
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\bin\Debug\HelloWorld.BL.dll
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\bin\Debug\HelloWorld.BL.pdb
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\obj\Debug\HelloWorld.BL.csprojResolveAssemblyReference.cache
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\obj\Debug\HelloWorld.BL.csproj.CoreCompileInputs.cache
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\obj\Debug\HelloWorld.BL.dll
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\obj\Debug\HelloWorld.BL.pdb
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.BL\bin\Debug\HelloWorld.BL.dll.config

@@ -1,0 +1,6 @@
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.DAL\bin\Debug\HelloWorld.DAL.dll
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.DAL\bin\Debug\HelloWorld.DAL.pdb
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.DAL\obj\Debug\HelloWorld.DAL.csprojResolveAssemblyReference.cache
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.DAL\obj\Debug\HelloWorld.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.DAL\obj\Debug\HelloWorld.DAL.dll
+C:\Users\rajesh\source\repos\HelloWorld\HelloWorld.DAL\obj\Debug\HelloWorld.DAL.pdb
